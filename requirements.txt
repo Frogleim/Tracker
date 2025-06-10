@@ -1,0 +1,6 @@
+pyqt5
+websockets
+requests
+pandas
+nltk
+textblob
